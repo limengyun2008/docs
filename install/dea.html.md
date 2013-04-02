@@ -1,9 +1,14 @@
-
 ## dependency
 
 on centos 6:
 
     sudo yum install curl libcurl libcurl-devel
+
+
+## config note
+
+1. modify mbus
+2. modify resource limit
 
 ## setup & start
 
